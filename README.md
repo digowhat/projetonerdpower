@@ -12,6 +12,26 @@ utilização dos códigos aqui desenvolvidos para construção de sub-redes.
 2ª Etapa: Pending...
 
 
+================
+
+Funcionalidades BASE:
+
+- Desenvolvimento do sistema de cadastro dos nerds (básico)
+  > Dados pessoais e de contato.
+  > Sistema de alianças (amizades entre os nerds)
+  
+- Desenvolvimento do sistema de postagens
+  > Alimentação dos posts (Textos, Imagens, Vídeo, Aúdio)
+  > Filtros do conteúdo 
+      por Região(Estado, Cidade)
+      por Tags
+
+- Desenvolvimento do sistema de Chat
+  Chat privado entre alianças(Nerd x Nerd).
+  /*Grupos de chat?!*/
+
+obs: todos os cadastros com CRUD básico.
+
 
 
 
